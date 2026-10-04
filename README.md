@@ -29,9 +29,9 @@ The `.nojekyll` file tells Pages to serve the static files without Jekyll proces
 - `.nojekyll` — static Pages configuration.
 - `README.md` — repository purpose, deployment, and maintenance.
 
-## Remaining TODO before final Store submission
+## Public privacy/support contact
 
-No intended public contact email was found in the application's existing public-facing documentation. Choose and verify a privacy/support email, replace the clearly marked HTML TODOs and contact paragraphs in both pages, and redeploy before final Store submission. Do not invent an address or publish a personal address without authorization. The existing Buy Me a Coffee URL is a voluntary contribution link, not a designated privacy/support channel.
+The verified public privacy/support contact for Pactelis Whiteboard is [pactelis.gr@gmail.com](mailto:pactelis.gr@gmail.com). The privacy and support pages link to this address. The existing Buy Me a Coffee URL is a voluntary contribution link, not a designated privacy/support channel.
 
 Review the policy when application behavior changes, update its date, and keep the content accurate. Use the deployed privacy HTTPS URL in the Store listing once verified. This repository does not perform Store submission, certification, application tagging, or release automation.
 
